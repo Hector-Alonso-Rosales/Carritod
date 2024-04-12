@@ -1,0 +1,31 @@
+[
+    {   
+        "id": 1,
+        "name": "DOOM ETERNAL",
+        "author": "Bethesda Studios",
+        "price": 800,
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
+        "quanty": 1
+        
+
+    },
+    {   
+        "id": 2,
+        "name": "Elden Ring",
+        "author": "FROM SOFTWARE",
+        "price": 1000,
+        "img": "https://www.brentwoodnylibrary.org/sites/default/files/styles/d04/public/2022-06/041c1d85b22dd9020907e49012cafc6b.jpg?itok=mcoktEsq",
+        "quanty": 1
+
+    },
+    {   
+        "id": 3,
+        "name": "Guilty Gear Strive",
+        "author": "ArcSystem Works",
+        "price": 600,
+        "img": "https://www.creativeuncut.com/gallery-40/art/ggs-box-art.jpg",
+        "quanty": 1
+
+
+    }
+]
